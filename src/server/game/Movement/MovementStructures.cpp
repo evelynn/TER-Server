@@ -4485,7 +4485,7 @@ MovementStatusElements const SplineMoveSetWaterWalk[] =
 		MSEGuidByte5,
 		MSEGuidByte1,
 		MSEEnd,
-	};
+		};
 
 MovementStatusElements const SplineMoveSetLandWalk[] =
 {
@@ -4506,8 +4506,7 @@ MovementStatusElements const SplineMoveSetLandWalk[] =
 		MSEGuidByte0,
 		MSEGuidByte6,
 		MSEEnd,
-		};
-
+	};
 
 //4.3.4
 MovementStatusElements MovementHoverAck[] =
